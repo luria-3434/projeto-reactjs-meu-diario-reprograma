@@ -1,0 +1,13 @@
+.imagem{
+width:200px;
+}
+
+.cards-container {
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+flex-wrap: wrap ; 
+width: 60%;
+}
+
